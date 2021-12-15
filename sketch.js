@@ -47,7 +47,7 @@ function draw() {
 
 
 
-  if (playerCount === 2 && keyDown("enter")) {
+  if (playerCount === 2 && keyDown("space")) {
     
     game.update(1);
     
